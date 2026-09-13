@@ -74,7 +74,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Pitlane Dashboard](docs/screenshot-dashboard.jpg)
+Check out the [live demo](https://pitlanef1.vercel.app) to see it in action.
 
 ---
 
